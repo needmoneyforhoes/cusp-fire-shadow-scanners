@@ -34,3 +34,8 @@ Reads `race_test_btc-updown-5m-*.log` files from `$DATA_DIR` (the private polyma
 ## Requirements
 
 Python 3, standard library only (`os`, `re`, `sys`, `glob`, `collections`). No third-party packages.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/cusp-fire-shadow-scanners/issues/new). Pull requests are welcome too.
